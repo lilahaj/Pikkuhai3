@@ -1,4 +1,4 @@
-# Ajatuksia
+# Ajatuksia - mitä opittiin
 
 - Kuinka paljon eri vaiheita projekti sisältää
 - Pitää ottaa huomioon vaatimukset sekä mitä luvattu ja miten ne toteutetaan
